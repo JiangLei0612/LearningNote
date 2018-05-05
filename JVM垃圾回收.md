@@ -5,3 +5,4 @@
 ## 3 Mark-Compact(标记整理算法)
 ## 4 Generational Collection(分代收集算法)
 ## 新生代-老年代-永久代
+测试冲突-----
