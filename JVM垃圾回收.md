@@ -6,3 +6,4 @@
 ## 4 Generational Collection(分代收集算法)
 ## 新生代-老年代-永久代
 添加
+测试冲突
